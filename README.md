@@ -1,6 +1,5 @@
-# Cisco Packet Tracer Installation for Linux
+# Cisco Packet Tracer Installation for Ubuntu Distributions
 You can download Cisco Packet Tracer from Cisco's official Networking Academy (NetAcad) website. To access the download, you'll need to sign up for a free account, which also provides access to resources such as tutorials and courses for using Packet Tracer effectively.
-
 
 
 This guide explains how to install Cisco Packet Tracer on a Linux system using a `.deb` file and handle any missing dependencies.
@@ -34,6 +33,12 @@ Use the `dpkg` command to install Cisco Packet Tracer:
 # modify the file name with you file name
 sudo dpkg -i CiscoPacketTracer822_amd64_signed.deb
 ```
+- Agree Software License Agreement
+![Installation Image1](https://github.com/iamthemag/Cisco-Packet-Tracer-Linux/blob/main/content/install1.png)
+
+- Accept EULA 
+![Installation Image 2](https://github.com/iamthemag/Cisco-Packet-Tracer-Linux/blob/main/content/install2.png)
+
 #### If installed with no errors then Congratulations! skip to step 6
 
 ### 4. Resolve Missing Dependencies
