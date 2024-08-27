@@ -69,8 +69,8 @@ sudo dpkg -i CiscoPacketTracer822_amd64_signed.deb
 
 #### Select you distribution and then search for the package that is missing in the search
 
-[![Watch the video](https://img.youtube.com/vi/https://youtu.be/rc2scAhX6mc/hqdefault.jpg
-)](https://youtu.be/rc2scAhX6mc)
+[![Watch the Tutorial](https://img.youtube.com/vi/rc2scAhX6mc/hqdefault.jpg)](https://www.youtube.com/watch?v=rc2scAhX6mc)
+
 
 
 
