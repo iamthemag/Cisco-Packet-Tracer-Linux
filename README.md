@@ -34,20 +34,25 @@ Use the `dpkg` command to install Cisco Packet Tracer:
 sudo dpkg -i CiscoPacketTracer822_amd64_signed.deb
 ```
 - Agree Software License Agreement
+  
 ![Installation Image1](https://github.com/iamthemag/Cisco-Packet-Tracer-Linux/blob/main/content/install1.png)
 
-- Accept EULA 
+- Accept EULA
+  
 ![Installation Image 2](https://github.com/iamthemag/Cisco-Packet-Tracer-Linux/blob/main/content/install2.png)
 
 #### If installed with no errors then Congratulations! skip to step 6
 
 ### 4. Resolve Missing Dependencies
 
-If there are missing dependencies, you need to install them manually. For example, if you encounter an error related to `libgl1-mesa-glx`, you can install the missing package using:
+If there are missing dependencies, you need to install them manually. For example, if you encounter an error related to `libgl1-mesa-glx` and `libxcb-xinerama0-dev`, you can install the missing package using:
+
+![Installation error](https://github.com/iamthemag/Cisco-Packet-Tracer-Linux/blob/main/content/install_error1.png)
 
 ```bash
-sudo apt-get install libgl1-mesa-glx
+sudo apt-get install libgl1-mesa-glx libxcb-xinerama0-dev
 ```
+
 If the packages are installed sucessfully then try to install Cisco Packet Tracer again.
 
 ```bash
@@ -55,14 +60,27 @@ If the packages are installed sucessfully then try to install Cisco Packet Trace
 sudo dpkg -i CiscoPacketTracer822_amd64_signed.deb
 ```
 
-If the packages are outdated or not installing then use the following links to download manually
+![Installation Image 2](https://github.com/iamthemag/Cisco-Packet-Tracer-Linux/blob/main/content/package_fail.png)
+
+#### If the packages are not being installed then use the following links to download manually
 
 
 - [ Download Missing Ubuntu Packages](https://ubuntu.pkgs.org/)
 
 #### Select you distribution and then search for the package that is missing in the search
 
-Download the packages with amd64 on your device and i   
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)](https://github.com/iamthemag/Cisco-Packet-Tracer-Linux/blob/main/content/download_process.mp4)
+
+
+Download the packages with amd64 on your device and Use the `dpkg` command to install the missing packages
+
+```bash
+# Replace the package name with your package name
+sudo dpkg -i libxcb-xinerama0-dev_1.15-1ubuntu2_amd64.deb
+```
+```bash
+# Replace the package name with your package name
+sudo dpkg -i libgl1-mesa-glx_22.3.6-1+deb12u1_amd64.deb
 ```
 
 ### 5. Fix Remaining Dependencies
