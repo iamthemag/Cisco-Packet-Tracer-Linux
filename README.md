@@ -110,4 +110,5 @@ After clicking on `Cisco Skills For All` and login to your account
 
 #### If everything is installed correctly, Cisco Packet Tracer should launch successfully.
 
-[Cisco Packet Tracer Image](https://github.com/iamthemag/Cisco-Packet-Tracer-Linux/blob/main/content/Cisco_Window.png)
+![Cisco Window](https://github.com/iamthemag/Cisco-Packet-Tracer-Linux/blob/main/content/Cisco_Window.png)
+
