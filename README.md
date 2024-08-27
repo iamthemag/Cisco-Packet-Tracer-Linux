@@ -60,9 +60,11 @@ If the packages are installed sucessfully then try to install Cisco Packet Trace
 sudo dpkg -i CiscoPacketTracer822_amd64_signed.deb
 ```
 
-![Installation Image 2](https://github.com/iamthemag/Cisco-Packet-Tracer-Linux/blob/main/content/package_fail.png)
+![Package Error Image](https://github.com/iamthemag/Cisco-Packet-Tracer-Linux/blob/main/content/package_fail.png)
 
 #### If the packages are not being installed then use the following links to download manually
+- Example Image
+![Package Error Image](https://github.com/iamthemag/Cisco-Packet-Tracer-Linux/blob/main/content/package_fail.png)
 
 
 - [ Download Missing Ubuntu Packages](https://ubuntu.pkgs.org/)
