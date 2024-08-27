@@ -68,7 +68,7 @@ sudo dpkg -i CiscoPacketTracer822_amd64_signed.deb
 - [ Download Missing Ubuntu Packages](https://ubuntu.pkgs.org/)
 
 #### Select you distribution and then search for the package that is missing in the search
-Click on the below image to watch tutorial to download packages manually
+Click on the below image to watch tutorial to download packages manually or [Download Video](https://github.com/iamthemag/Cisco-Packet-Tracer-Linux/blob/main/content/download.mp4)
 
 [![Watch the Tutorial](https://img.youtube.com/vi/rc2scAhX6mc/hqdefault.jpg)](https://www.youtube.com/watch?v=rc2scAhX6mc)
 
@@ -100,5 +100,14 @@ Once all dependencies are resolved, verify the installation by launching Cisco P
 ```bash
 packettracer
 ```
-If everything is installed correctly, Cisco Packet Tracer should launch successfully.
+#### Login in your account to start using Cisco Packet Tracer
 
+Also Toggle On "keep me logged in" button to stay logged in for 3 months
+
+![Cisco Login Image](https://github.com/iamthemag/Cisco-Packet-Tracer-Linux/blob/main/content/cisco_login.png)
+
+After clicking on `Cisco Skills For All` and login to your account
+
+#### If everything is installed correctly, Cisco Packet Tracer should launch successfully.
+
+[Cisco Packet Tracer Image](https://github.com/iamthemag/Cisco-Packet-Tracer-Linux/blob/main/content/Cisco_Window.png)
