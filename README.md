@@ -34,14 +34,14 @@ Use the `dpkg` command to install Cisco Packet Tracer:
 # modify the file name with you file name
 sudo dpkg -i CiscoPacketTracer822_amd64_signed.deb
 ```
-#### If installed with no errors then Congratulations!
+#### If installed with no errors then Congratulations! skip to step 6
 
 ### 4. Resolve Missing Dependencies
 
-If there are missing dependencies, you need to install them manually. For example, if you encounter an error related to `libxcb-xinerama0`, you can install the missing package using:
+If there are missing dependencies, you need to install them manually. For example, if you encounter an error related to `libgl1-mesa-glx`, you can install the missing package using:
 
 ```bash
-sudo apt-get install libxcb-xinerama0
+sudo apt-get install libgl1-mesa-glx
 ```
 If the packages are installed sucessfully then try to install Cisco Packet Tracer again.
 
@@ -57,11 +57,7 @@ If the packages are outdated or not installing then use the following links to d
 
 #### Select you distribution and then search for the package that is missing in the search
 
-Download the packages with amd64 on your device and install it manually
-
-```bash
-# modify the file name with you file name
-sudo dpkg -i <Package_Name>
+Download the packages with amd64 on your device and i   
 ```
 
 ### 5. Fix Remaining Dependencies
