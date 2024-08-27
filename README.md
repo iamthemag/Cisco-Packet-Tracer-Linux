@@ -1,4 +1,7 @@
 # Cisco Packet Tracer Installation for Ubuntu Distributions
+<p align="right">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=iamthemag.Cisco-Packet-Tracer-Linux" alt="Visitor Count">
+</p>
 You can download Cisco Packet Tracer from Cisco's official Networking Academy (NetAcad) website. To access the download, you'll need to sign up for a free account, which also provides access to resources such as tutorials and courses for using Packet Tracer effectively.
 
 
