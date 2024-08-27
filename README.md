@@ -70,7 +70,7 @@ sudo dpkg -i CiscoPacketTracer822_amd64_signed.deb
 #### Select you distribution and then search for the package that is missing in the search
 Click on the below image to watch tutorial to download packages manually
 
-
+[![Watch the Tutorial](https://img.youtube.com/vi/rc2scAhX6mc/hqdefault.jpg)](https://www.youtube.com/watch?v=rc2scAhX6mc)
 
 Download the packages with amd64 on your device and Use the `dpkg` command to install the missing packages
 
