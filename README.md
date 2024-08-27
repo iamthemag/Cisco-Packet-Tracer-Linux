@@ -112,3 +112,10 @@ After clicking on `Cisco Skills For All` and login to your account
 
 ![Cisco Window](https://github.com/iamthemag/Cisco-Packet-Tracer-Linux/blob/main/content/Window_cisco.jpg)
 
+## Support
+
+If you found this helpful, consider giving it a ⭐ and following me on GitHub for more cool things!
+
+[![Follow me on GitHub](https://img.shields.io/github/followers/iamthemag?label=Follow&style=social)](https://github.com/iamthemag)
+
+
