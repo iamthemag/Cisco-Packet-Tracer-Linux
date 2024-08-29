@@ -8,7 +8,7 @@ This guide explains how to install Cisco Packet Tracer on a Linux system using a
 
 ## Steps to Install in Ubuntu
 
-### First update you Ubuntu Machine
+### First update your Ubuntu Machine
 ```bash
 sudo apt update
 sudo apt upgrade
