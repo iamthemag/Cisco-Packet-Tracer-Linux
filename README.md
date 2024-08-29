@@ -64,6 +64,7 @@ sudo dpkg -i CiscoPacketTracer822_amd64_signed.deb
 
 #### If the packages are not being installed then use the following links to download manually
 - Example Image
+- 
 ![Package Error Image](https://github.com/iamthemag/Cisco-Packet-Tracer-Linux/blob/main/content/package_fail.png)
 
 
